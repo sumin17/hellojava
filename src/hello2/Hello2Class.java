@@ -1,6 +1,6 @@
 package hello2;
 
-public class hello2 {
+public class Hello2Class {
 
 	public static void main(String[] args) {
 		int a;
